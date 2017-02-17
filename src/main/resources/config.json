@@ -1,0 +1,14 @@
+{
+  "sql": {
+    "dsn": "jdbc:mysql://localhost/social",
+    "username": "test",
+    "password": "test",
+    "table-prefix": ""
+  },
+  "party": {
+    "defaultLimit": 2
+  },
+  "friends": {
+    "defaultLimit": 100
+  }
+}

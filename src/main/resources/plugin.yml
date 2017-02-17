@@ -1,0 +1,8 @@
+main: com.encrox.social.Social
+name: Social
+version: 1.0
+
+commands:
+  social:
+    description: Generic social command.
+    usage: /social help
